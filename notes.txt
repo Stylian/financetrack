@@ -1,0 +1,8 @@
+
+to add dynamic adding of panels
+tickers for stocks,
+currencies panel
+etc
+
+will require spring and embedded derby
+whole back end
