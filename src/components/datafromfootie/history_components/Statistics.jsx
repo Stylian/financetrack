@@ -1,5 +1,5 @@
 import {Box, Card, CardContent, CardHeader, Grid, Paper, TableBody, TableCell, TableRow} from "@material-ui/core";
-import LeagueToolbar from "../LeagueToolbar";
+import LeagueToolbar from "./LeagueToolbar";
 import React, {Component} from "react";
 import {Bar, Doughnut, HorizontalBar} from "react-chartjs-2";
 

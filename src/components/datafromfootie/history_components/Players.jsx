@@ -15,7 +15,7 @@ import {
 } from "@material-ui/core";
 import Button from "@material-ui/core/Button";
 import IconButton from "@material-ui/core/IconButton";
-import plus from "../icons/plus.png";
+import plus from "../../../icons/plus.png";
 
 class Players extends Component {
 

@@ -1,10 +1,10 @@
 import React, {Component} from "react";
 import {Box, Card, CardContent, CardHeader, Grid, Paper, TableCell, TableRow} from "@material-ui/core";
 import LeagueToolbar from "./LeagueToolbar";
-import playeroftheyear from "../icons/playeroftheyear.png";
-import dreamteam from "../icons/dreamteam.png";
-import silvermedal from "../icons/silvermedal.png";
-import goldmedal from "../icons/goldmedal.png";
+import playeroftheyear from "../../../icons/playeroftheyear.png";
+import dreamteam from "../../../icons/dreamteam.png";
+import silvermedal from "../../../icons/silvermedal.png";
+import goldmedal from "../../../icons/goldmedal.png";
 
 class Player extends Component {
 

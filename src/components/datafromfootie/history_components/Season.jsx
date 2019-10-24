@@ -1,13 +1,13 @@
 import React, {Component} from "react";
 import LeagueToolbar from "./LeagueToolbar";
 import {AppBar, Box, Grid, Paper, Tab, Tabs} from "@material-ui/core";
-import Seeding from "./season_components/Seeding";
-import Groups1 from "./season_components/Groups1";
-import Quals from "./season_components/Quals";
-import Groups2 from "./season_components/Groups2";
-import Knockouts from "./season_components/Knockouts";
-import SeasonPostview from "./season_components/SeasonPostview";
-import NextGame from "./season_components/NextGame";
+import Seeding from "../Seeding";
+import Groups1 from "../Groups1";
+import Quals from "../Quals";
+import Groups2 from "../Groups2";
+import Knockouts from "../Knockouts";
+import SeasonPostview from "../SeasonPostview";
+import NextGame from "../NextGame";
 
 class Season extends Component {
 

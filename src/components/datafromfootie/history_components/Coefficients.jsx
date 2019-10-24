@@ -12,9 +12,9 @@ import {
     CardHeader,
     CardContent
 } from "@material-ui/core";
-import goldmedal from "../../icons/goldmedal.png";
-import silvermedal from "../../icons/silvermedal.png";
-import LeagueToolbar from "../LeagueToolbar";
+import goldmedal from "../../../icons/goldmedal.png";
+import silvermedal from "../../../icons/silvermedal.png";
+import LeagueToolbar from "./LeagueToolbar";
 
 class Coefficients extends Component {
 

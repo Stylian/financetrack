@@ -7,14 +7,14 @@ import MenuIcon from '@material-ui/icons/Menu';
 import MenuItem from '@material-ui/core/MenuItem';
 import Menu from '@material-ui/core/Menu';
 import {Box, Grid, ListItemIcon, ListItemText} from "@material-ui/core";
-import list from "../icons/list.svg";
-import build from "../icons/build.svg";
-import up from "../icons/up.svg";
-import down from "../icons/down.svg";
-import players from "../icons/football-players.png";
-import analytics from "../icons/analytics.png";
-import barchart from "../icons/bar-chart.png";
-import medal1 from "../icons/medal1.png";
+import list from "../../../icons/list.svg";
+import build from "../../../icons/build.svg";
+import up from "../../../icons/up.svg";
+import down from "../../../icons/down.svg";
+import players from "../../../icons/football-players.png";
+import analytics from "../../../icons/analytics.png";
+import barchart from "../../../icons/bar-chart.png";
+import medal1 from "../../../icons/medal1.png";
 
 class LeagueToolbar extends Component {
 

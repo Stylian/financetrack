@@ -10,7 +10,7 @@ import {
 } from "@material-ui/core";
 import Numeral from "numeral";
 import {Bar, Doughnut, HorizontalBar} from "react-chartjs-2";
-import LeagueToolbar from "../LeagueToolbar";
+import LeagueToolbar from "./LeagueToolbar";
 
 const $ = require('jquery');
 $.DataTable = require('datatables.net');

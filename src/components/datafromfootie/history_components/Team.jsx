@@ -13,13 +13,13 @@ import {
 } from "@material-ui/core";
 import LeagueToolbar from "./LeagueToolbar";
 
-import silvermedal from "../icons/silvermedal.png";
-import goldmedal from "../icons/goldmedal.png";
-import greenup from "../icons/green_up.png";
-import reddown from "../icons/red_down.png";
+import silvermedal from "../../../icons/silvermedal.png";
+import goldmedal from "../../../icons/goldmedal.png";
+import greenup from "../../../icons/green_up.png";
+import reddown from "../../../icons/red_down.png";
 import {Bar, Doughnut, HorizontalBar, Line, Radar} from "react-chartjs-2";
-import dreamteam from "../icons/dreamteam.png";
-import playeroftheyear from "../icons/playeroftheyear.png";
+import dreamteam from "../../../icons/dreamteam.png";
+import playeroftheyear from "../../../icons/playeroftheyear.png";
 
 class Team extends Component {
 
